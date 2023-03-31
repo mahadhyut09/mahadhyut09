@@ -1,0 +1,18 @@
+.pgt{
+    background-color: rgb(0,0,0,0.6);
+
+}
+.pgth{
+    margin-top: 60px;
+    background-image: url(../images/project.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.pro{
+    background-color: black;
+}
+.st{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

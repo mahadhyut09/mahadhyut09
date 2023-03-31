@@ -1,0 +1,26 @@
+.bgt{
+    background-color: rgba(0, 0, 0, 0.6);
+    min-height: 100vh;
+}
+.bg{
+    background-image: url(../images/port\ image.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btns{
+    font-family:'poppins',sans-serif;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.cpb{
+    width: 100px;
+}
+.CircularProgressbar-path {
+    stroke: red;
+  }

@@ -1,0 +1,14 @@
+.menu a:hover{
+  border: 1px solid indianred;
+  background-color: green;
+}
+nav{
+  position: fixed !important;
+  width: 100vw;
+  top: 0;
+  
+}
+.navi{
+  display: flex;
+  justify-content: space-between;
+}
